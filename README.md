@@ -8,7 +8,7 @@ Project status [active]
 
 ## Data sources [to be added]
 
-- The data set regarding the policies and measures implemented in response to the virus is from the [CoronaNet Research Project](https://www.coronanet-project.org/)
+- The data set regarding the policies and measures implemented in response to the virus is from the [CoronaNet Research Project](https://www.coronanet-project.org/).
 
 ## Methods and tools used in the paper [to be added]
 
